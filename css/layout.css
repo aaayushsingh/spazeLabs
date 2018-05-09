@@ -5789,7 +5789,8 @@ a.quote-big-post-single h5:hover{
 
 .services-boxes-1{
 	position:relative;
-	width:100%;
+  width:100%;
+
 }
 .services-boxes-1:after{
 	content: '';
@@ -5819,7 +5820,7 @@ a.quote-big-post-single h5:hover{
 	padding-bottom:20px;
 }
 .services-boxes-1 p{
-	text-align:left;
+  text-align: justify;
 	margin-left:70px;
 }
  
